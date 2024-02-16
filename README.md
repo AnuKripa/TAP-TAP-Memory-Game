@@ -2,7 +2,7 @@ TAP-TAP Memory Game
 TAP TAP is a Memory Game. It is designed to improve the concentration and memory power.
 
 Demo
-https://drive.google.com/file/d/1gltinryieVMU28otX4g5fI9utHKWtLMY/view?usp=drive_link
+https://drive.google.com/file/d/1gltinryieVMU28otX4g5fI9utHKWtLMY/view?usp=sharing
 
 This is built using HTML, CSS and Javascript with some algorithm.
 
